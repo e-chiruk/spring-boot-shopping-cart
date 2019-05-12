@@ -27,22 +27,22 @@ INSERT INTO USER_ROLE (user_id, role_id)
 VALUES (3, 2);
 
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Soap', 'Pears baby soap for Kids', 1, 35.75);
+VALUES ('The Art of Public Speaking', 'Stephen Lucas', 1, 35.75);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Tooth Brush', 'Signal Tooth Brushes Size in (L, M, S)', 5, 34.50);
+VALUES ('Chemistry: A Molecular Approach', 'Nivaldo J. Tro', 5, 34.50);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Shirt', 'Casual Shirt imported from France', 3, 1500.00);
+VALUES ('MyMathLab: Student Access Kit', 'Hall H Pearson Education', 3, 1500.00);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Office Bag', 'Leather bag imported from USA', 40, 1000.00);
+VALUES ('Human Anatomy & Physiology (10th Edition) (Marieb, Human Anatomy & Physiology)', 'Elaine N. Marieb, Katja N. Hoehn', 40, 1000.00);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Bottle', 'Hot Water Bottles', 80, 450.45);
+VALUES ('Essential Cell Biology, 4th Edition', 'Bruce Alberts, Dennis Bray, Karen Hopkin, Alexander D Johnson', 80, 450.45);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Wrist Watch', 'Imported wrist watches from swiss', 800, 2500.00);
+VALUES ('Calculus: Early Transcendentals', 'James Stewart ', 800, 2500.00);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Mobile Phone', '3G/4G capability', 700, 45000.00);
+VALUES ('Essentials of Sociology', 'James M. Henslin', 700, 45000.00);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Shampoo', 'Head and Shoulders Shampoo', 500, 300.00);
+VALUES ('Cost Accounting', 'Charles T. Horngren, Srikant M. Datar, Madhav V. Rajan', 500, 300.00);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Leather Wallets', 'Imported Leather Wallets from AUS', 1000, 500.00);
+VALUES ('Conceptual Physics (12th Edition)', 'Paul G. Hewitt ', 1000, 500.00);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Camera', 'Imported Canon camera from USA', 10, 85000.00);
+VALUES ('Materials Science and Engineering: An Introduction', 'William D. Callister, David G. Rethwisch', 10, 85000.00);
